@@ -173,7 +173,7 @@ button:hover{
     color:white;
     font-size: 75px;
     width: 1130px;
-    margin: 30px auto;
+    margin: 10px auto;
     text-align: center;
 }
 .box{
@@ -183,7 +183,7 @@ button:hover{
     min-height: 400px;
 }
 .card{
-    height: 375px;
+    height: 580px;
     width: 335px;
     padding: 10px 45px;
     background:  black;
@@ -218,7 +218,7 @@ h5{
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
-    padding: 13px 30px;
+    padding: 13px 20px;
     border-radius: 30px;
     transition: .4s;
     
